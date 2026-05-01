@@ -1,2 +1,2 @@
-This is Development docs and we check clickup integration
+Now here the development docs.
 
